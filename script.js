@@ -89,15 +89,14 @@ function displaySchemes(data) {
           onerror="this.src='assets/images/default.jpg'"
         >
 
-        <video
-          src="${videoPath}"
-          muted
-          loop
-          autoplay
-          playsinline
-          preload="auto"
-        ></video>
-
+       <video
+  src="${videoPath}"
+  muted
+  loop
+  playsinline
+  preload="none"
+  poster="${s.image}"
+></video>
         <span
           class="bookmark ${isSavedState ? "saved" : ""}"
           onclick="event.stopPropagation(); toggleBookmark(${s.id})"
@@ -166,14 +165,14 @@ function renderTopSchemes() {
           onerror="this.src='assets/images/default.jpg'"
         >
 
-        <video
-          src="${videoPath}"
-          muted
-          loop
-          autoplay
-          playsinline
-          preload="auto"
-        ></video>
+       <video
+  src="${videoPath}"
+  muted
+  loop
+  playsinline
+  preload="none"
+  poster="${s.image}"
+></video>
 
       </div>
 

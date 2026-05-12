@@ -12,7 +12,7 @@
   "summary_hi": "जननी सुरक्षा योजना गर्भवती महिलाओं के लिए है।\nयह अस्पताल में प्रसव को बढ़ावा देती है।\nआर्थिक सहायता मिलती है।\nमातृ मृत्यु दर कम होती है।\nसुरक्षित प्रसव सुनिश्चित होता है।\nग्रामीण महिलाओं को लाभ मिलता है।\nमातृत्व सुरक्षित बनता है।",
   "description_en": "This scheme provides financial incentives to pregnant women to encourage safe delivery in hospitals.",
   "description_hi": "यह योजना गर्भवती महिलाओं को सुरक्षित प्रसव के लिए आर्थिक सहायता देती है।",
- "video": "vids/janani_suraksha.mp4",
+ "video": "vids\\janani_balanced.mp4",
   "apply_link": "https://nhm.gov.in"
 },
 
@@ -29,7 +29,7 @@
   "summary_hi": "आयुष्मान भारत स्वास्थ्य बीमा योजना है।\n₹5 लाख तक कवर मिलता है।\nगरीबों के लिए है।\nकैशलेस इलाज मिलता है।\nबड़ी बीमारियां कवर होती हैं।\nदेशभर में उपलब्ध है।\nखर्च कम होता है।",
   "description_en": "Ayushman Bharat provides free healthcare to low-income families.",
   "description_hi": "यह योजना गरीब परिवारों को मुफ्त इलाज देती है।",
-  "video": "../vids/ayushman.mp4",
+  "video": "..\\vids\\aayushman.mp4",
   "apply_link": "https://pmjay.gov.in"
 },
 
@@ -46,7 +46,7 @@
   "summary_hi": "किसानों को ₹6000 मिलते हैं।\n3 किस्तों में भुगतान होता है।\nछोटे किसानों को लाभ मिलता है।\nसीधे बैंक में पैसा आता है।\nखेती में मदद मिलती है।\nआय बढ़ती है।",
   "description_en": "Provides direct financial assistance to farmers.",
   "description_hi": "यह योजना किसानों को आर्थिक सहायता देती है।",
-  "video": "../vids/kisan_samman.mp4",
+  "video": "..\\vids\\kissansamman_balanced.mp4",
   "apply_link": "https://pmkisan.gov.in"
 },
 
@@ -63,7 +63,7 @@
   "summary_hi": "यह सस्ते घर प्रदान करता है।\nकम आय वाले लोगों को मदद मिलती है।\nलोन पर सब्सिडी मिलती है।\nग्रामीण और शहरी दोनों क्षेत्रों में लागू है।\nघर खरीदने को बढ़ावा देता है।\nजीवन स्तर सुधारता है।\nसभी के लिए आवास सुनिश्चित करता है।",
   "description_en": "PM Awas Yojana helps citizens own houses through financial assistance and subsidies.",
   "description_hi": "यह योजना लोगों को घर खरीदने या बनाने में सहायता करती है।",
-  "video": "../vids/awas_yojna.mp4",
+  "video": "..\\vids\\awasyojna_balanced.mp4",
   "apply_link": "https://pmaymis.gov.in"
 },
 
@@ -80,7 +80,7 @@
   "summary_hi": "छोटे व्यवसायों को ऋण मिलता है।\nगारंटी की जरूरत नहीं होती।\nस्टार्टअप को समर्थन मिलता है।\nउद्यमिता बढ़ती है।\nलोन प्रक्रिया आसान है।\nस्वरोजगार बढ़ता है।\nअर्थव्यवस्था मजबूत होती है।",
   "description_en": "Mudra Yojana offers loans to small entrepreneurs.",
   "description_hi": "मुद्रा योजना छोटे व्यवसायों को ऋण देती है।",
-  "video": "../vids/mudra.mp4",
+  "video": "..\\vids\\mudra_balanced.mp4",
   "apply_link": "https://mudra.org.in"
 },
 
@@ -97,7 +97,7 @@
   "summary_hi": "शून्य बैलेंस खाता मिलता है।\nवित्तीय समावेशन बढ़ता है।\nखाता खोलना आसान है।\nबीमा सुविधा मिलती है।\nडेबिट कार्ड मिलता है।\nडिजिटल भुगतान संभव है।\nबैंकिंग सुविधा बढ़ती है।",
   "description_en": "Provides access to banking services.",
   "description_hi": "यह योजना बैंकिंग सुविधा देती है।",
-  "video": "../vids/jan_dhan_yojna.mp4",
+  "video": "..\\vids\\jandhan_balanced.mp4",
   "apply_link": "https://pmjdy.gov.in"
 },
 
@@ -114,7 +114,7 @@
   "summary_hi": "सेवानिवृत्ति के बाद पेंशन मिलती है।\nअसंगठित क्षेत्र के लिए है।\nआर्थिक सुरक्षा मिलती है।\nमासिक पेंशन तय होती है।\nकम योगदान होता है।\nआसान पंजीकरण है।\nबुढ़ापे में मदद मिलती है।",
   "description_en": "Provides pension benefits ensuring financial stability after retirement.",
   "description_hi": "यह योजना बुढ़ापे में आर्थिक सुरक्षा देती है।",
-  "video": "../vids/pension.mp4",
+  "video": "..\\vids\\atalpension_balanced.mp4",
   "apply_link": "https://npscra.nsdl.co.in"
 },
 
@@ -131,7 +131,7 @@
   "summary_hi": "जीवन बीमा मिलता है।\nकम प्रीमियम है।\n₹2 लाख कवर मिलता है।\nआसान पंजीकरण है।\nऑटो रिन्यूअल होता है।\nपरिवार को सहायता मिलती है।\nआर्थिक सुरक्षा मिलती है।",
   "description_en": "Provides life insurance coverage at affordable cost.",
   "description_hi": "यह योजना सस्ते प्रीमियम पर जीवन बीमा देती है।",
-  "video": "../vids/suraksha_bima.mp4",
+  "video": "..\\vids\\jeevanjyoti.mp4",
   "apply_link": "https://jansuraksha.gov.in"
 },
 
@@ -148,7 +148,7 @@
   "summary_hi": "दुर्घटना बीमा मिलता है।\n₹2 लाख कवर मिलता है।\nकम प्रीमियम है।\nआसान पंजीकरण है।\nपरिवार को सहायता मिलती है।\nदुर्घटना कवर होता है।\nआर्थिक सुरक्षा मिलती है।",
   "description_en": "Provides accident insurance coverage.",
   "description_hi": "यह योजना दुर्घटना बीमा देती है।",
-  "video": "../vids/pmsurakshabima.mp4",
+  "video": "..\\vids\\surakshabima_balanced.mp4",
   "apply_link": "https://jansuraksha.gov.in"
 },
 
@@ -165,7 +165,7 @@
   "summary_hi": "बालिकाओं के लिए बचत योजना है।\nउच्च ब्याज दर मिलती है।\nटैक्स लाभ मिलता है।\nलंबी अवधि निवेश है।\nशिक्षा में मदद मिलती है।\nबचत को बढ़ावा देता है।\nभविष्य सुरक्षित करता है।",
   "description_en": "Encourages savings for girl child future.",
   "description_hi": "यह योजना बेटियों के भविष्य के लिए है।",
-  "video": "../vids/sukanya.mp4",
+  "video": "..\\vids\\ssy_balanced.mp4",
   "apply_link": "https://postoffice.gov.in"
 }
 ,
@@ -182,7 +182,7 @@
   "summary_hi": "फसल बीमा मिलता है।\nनुकसान से सुरक्षा मिलती है।\nकम प्रीमियम है।\nकिसानों को सहायता मिलती है।\nआपदा कवर होती है।\nजल्दी क्लेम मिलता है।\nजोखिम कम होता है।",
   "description_en": "Provides crop insurance against losses.",
   "description_hi": "यह योजना फसल सुरक्षा देती है।",
-  "video": "../vids/fasalbima.mp4",
+  "video": "..\\vids\\fasalbima_balanced.mp4",
   "apply_link": "https://pmfby.gov.in"
 },
 
@@ -199,7 +199,7 @@
   "summary_hi": "सिंचाई सुविधा बढ़ती है।\nपानी उपलब्ध होता है।\nखेती को मदद मिलती है।\nउत्पादन बढ़ता है।\nपानी का सही उपयोग होता है।\nनिर्भरता कम होती है।\nकृषि मजबूत होती है।",
   "description_en": "Improves irrigation facilities.",
   "description_hi": "यह योजना सिंचाई सुधारती है।",
-  "video": "../vids/krishisinchai.mp4",
+  "video": "..\\vids\\krishisinchai_balanced.mp4",
   "apply_link": "https://pmksy.gov.in"
 },
 
@@ -216,7 +216,7 @@
   "summary_hi": "मिट्टी की जानकारी मिलती है।\nउत्पादन बढ़ता है।\nवैज्ञानिक खेती होती है।\nखाद का सही उपयोग होता है।\nबेहतर उत्पादन मिलता है।\nकिसानों को लाभ मिलता है।\nटेस्टिंग आसान है।",
   "description_en": "Provides soil nutrient data.",
   "description_hi": "यह योजना मिट्टी की जानकारी देती है।",
-  "video": "../vids/soil_healthcard.mp4",
+  "video": "..\\vids\\soilhealthcard_balanced.mp4",
   "apply_link": "https://soilhealth.dac.gov.in"
 },
 
@@ -233,7 +233,7 @@
   "summary_hi": "किसानों के लिए ऑनलाइन बाजार है।\nफसल ऑनलाइन बेच सकते हैं।\nअच्छा दाम मिलता है।\nपारदर्शी व्यापार होता है।\nबिचौलियों की भूमिका कम होती है।\nदेशभर में सुविधा मिलती है।\nकिसानों की आय बढ़ती है।",
   "description_en": "eNAM is an online trading platform that helps farmers sell produce.",
   "description_hi": "ई-नाम किसानों को ऑनलाइन बाजार में फसल बेचने की सुविधा देता है।",
-  "video": "../vids/enam.mp4",
+  "video": "..\\vids\\enam_balanced.mp4",
   "apply_link": "https://enam.gov.in"
 },
 
@@ -250,7 +250,7 @@
   "summary_hi": "बालिका शिक्षा को बढ़ावा देता है।\nलिंग अनुपात सुधारता है।\nस्कूल जाने को प्रेरित करता है।\nजागरूकता बढ़ाता है।\nपरिवारों को समर्थन देता है।\nलड़कियों को सशक्त बनाता है।\nसमाज सुधारता है।",
   "description_en": "Promotes education and welfare of the girl child.",
   "description_hi": "यह योजना बालिकाओं की शिक्षा को बढ़ावा देती है।",
-  "video": "../vids/beti_bachao.mp4",
+  "video": "..\\vids\\betibachao_balanced.mp4",
   "apply_link": "https://wcd.nic.in"
 },
 
@@ -267,7 +267,7 @@
   "summary_hi": "छात्रवृत्ति प्रदान करता है।\nछात्रों को सहायता मिलती है।\nऑनलाइन आवेदन होता है।\nआसान प्रक्रिया है।\nखर्च कम होता है।\nशिक्षा को बढ़ावा देता है।\nपारदर्शी प्रणाली है।",
   "description_en": "Portal providing scholarships to students.",
   "description_hi": "यह पोर्टल छात्रों को छात्रवृत्ति देता है।",
-  "video": "../vids/nsp.mp4",
+  "video": "..\\vids\\nsp_balanced.mp4",
   "apply_link": "https://scholarships.gov.in"
 },
 
@@ -284,7 +284,7 @@
   "summary_hi": "गैस कनेक्शन मिलता है।\nस्वास्थ्य बेहतर होता है।\nधुआं कम होता है।\nमहिलाओं को लाभ मिलता है।\nस्वच्छ ईंधन मिलता है।\nजीवन स्तर बेहतर होता है।\nघर सुरक्षित होता है।",
   "description_en": "Provides LPG connections to poor households.",
   "description_hi": "यह योजना मुफ्त गैस कनेक्शन देती है।",
-  "video": "../vids/ujjwala.mp4",
+  "video": "..\\vids\\ujjwala_balanced.mp4",
   "apply_link": "https://pmuy.gov.in"
 },
 
@@ -301,7 +301,7 @@
   "summary_hi": "उद्यमियों को सहायता मिलती है।\nलोन मिलता है।\nस्टार्टअप को बढ़ावा मिलता है।\nमहिलाओं को लाभ मिलता है।\nअर्थव्यवस्था बढ़ती है।\nआसान प्रक्रिया है।\nविकास होता है।",
   "description_en": "Provides loans to entrepreneurs.",
   "description_hi": "यह योजना उद्यमियों को ऋण देती है।",
-  "video": "../vids/standup.mp4",
+  "video": "..\\vids\\standup_balanced.mp4",
   "apply_link": "https://standupmitra.in"
 },
 
@@ -318,7 +318,7 @@
   "summary_hi": "स्टार्टअप को सहायता मिलती है।\nनवाचार बढ़ता है।\nफंडिंग मिलती है।\nनियम आसान होते हैं।\nउद्यमिता बढ़ती है।\nरोजगार बढ़ता है।\nअर्थव्यवस्था मजबूत होती है।",
   "description_en": "Promotes startup ecosystem in India.",
   "description_hi": "यह योजना स्टार्टअप को बढ़ावा देती है।",
-  "video": "../vids/startup.mp4",
+  "video": "..\\vids\\startup_balanced.mp4 ",
   "apply_link": "https://startupindia.gov.in"
 },
 
@@ -335,7 +335,7 @@
   "summary_hi": "कौशल प्रशिक्षण मिलता है।\nरोजगार क्षमता बढ़ती है।\nमुफ्त कोर्स होते हैं।\nउद्योग कौशल मिलते हैं।\nयुवाओं को लाभ मिलता है।\nरोजगार बढ़ता है।\nअर्थव्यवस्था मजबूत होती है।",
   "description_en": "Provides vocational training.",
   "description_hi": "यह योजना कौशल प्रशिक्षण देती है।",
-  "video": "../vids/skill.mp4",
+  "video": "..\\vids\\skillindia_balanced.mp4",
   "apply_link": "https://skillindia.gov.in"
 },
 {
@@ -351,7 +351,7 @@
   "summary_hi": "मुफ्त प्रशिक्षण मिलता है।\nप्रमाणपत्र मिलता है।\nउद्योग कौशल मिलते हैं।\nरोजगार आधारित है।\nयुवाओं को लाभ मिलता है।\nरोजगार बढ़ता है।\nकौशल बढ़ता है।",
   "description_en": "Provides job training programs.",
   "description_hi": "यह योजना प्रशिक्षण देती है।",
-  "video": "../vids/kaushal.mp4",
+  "video": "..\\vids\\skillsindia_balanced.mp4 ",
   "apply_link": "https://pmkvyofficial.org"
 },
 
@@ -368,7 +368,7 @@
   "summary_hi": "ग्रामीण रोजगार मिलता है।\n100 दिन की नौकरी मिलती है।\nगरीबों को सहायता मिलती है।\nइंफ्रास्ट्रक्चर सुधरता है।\nपलायन कम होता है।\nआय सुनिश्चित होती है।\nग्रामीण अर्थव्यवस्था बढ़ती है।",
   "description_en": "Provides employment guarantee.",
   "description_hi": "यह योजना रोजगार देती है।",
-  "video": "../vids/mgnrega.mp4",
+  "video": "..\\vids\\mgnrega_balanced.mp4",
   "apply_link": "https://nrega.nic.in"
 },
 
@@ -385,7 +385,7 @@
   "summary_hi": "स्वच्छता बढ़ती है।\nशौचालय बनते हैं।\nबीमारियां कम होती हैं।\nजागरूकता बढ़ती है।\nसाफ-सफाई बढ़ती है।\nजीवन स्तर बेहतर होता है।",
   "description_en": "Promotes cleanliness.",
   "description_hi": "यह योजना स्वच्छता बढ़ाती है।",
-  "video": "../vids/swacch.mp4",
+  "video": "..\\vids\\swacchbharat_balanced.mp4",
   "apply_link": "https://swachhbharatmission.gov.in"
 },
 
@@ -402,7 +402,7 @@
   "summary_hi": "स्मार्ट शहर बनते हैं।\nइंफ्रास्ट्रक्चर बेहतर होता है।\nतकनीक बढ़ती है।\nसेवाएं सुधरती हैं।\nशहरी विकास होता है।\nजीवन बेहतर होता है।\nसतत विकास होता है।",
   "description_en": "Develops smart cities.",
   "description_hi": "यह योजना शहरों को आधुनिक बनाती है।",
-  "video": "../vids/smartcity.mp4",
+  "video": "..\\vids\\smartcity_balanced.mp4",
   "apply_link": "https://smartcities.gov.in"
 },
 
@@ -419,7 +419,7 @@
   "summary_hi": "शहरी विकास होता है।\nपानी सुविधा बढ़ती है।\nस्वच्छता सुधरती है।\nशहर विकसित होते हैं।\nजीवन बेहतर होता है।",
   "description_en": "Improves urban services.",
   "description_hi": "यह योजना शहरों को सुधारती है।",
-  "video": "../vids/amrut.mp4",
+  "video": "..\\vids\\amrutscheme_balanced.mp4",
   "apply_link": "https://amrut.gov.in"
 },
 
@@ -436,7 +436,7 @@
   "summary_hi": "डिजिटल साक्षरता बढ़ती है।\nइंटरनेट सुविधा मिलती है।\nऑनलाइन सेवाएं मिलती हैं।\nई-गवर्नेंस बढ़ती है।\nतकनीक का उपयोग बढ़ता है।\nकनेक्टिविटी सुधरती है।\nभारत आधुनिक बनता है।",
   "description_en": "Promotes digital services and internet access.",
   "description_hi": "यह योजना डिजिटल सेवाओं को बढ़ावा देती है।",
-  "video": "../vids/digital.mp4",
+  "video": "..\\vids\\digitalindia_balanced.mp4",
   "apply_link": "https://digitalindia.gov.in"
 },
 
@@ -453,7 +453,7 @@
   "summary_hi": "उद्योग बढ़ते हैं।\nमैन्युफैक्चरिंग बढ़ती है।\nअर्थव्यवस्था मजबूत होती है।\nरोजगार बढ़ता है।\nस्टार्टअप को सहायता मिलती है।\nनिर्यात बढ़ता है।",
   "description_en": "Encourages manufacturing in India.",
   "description_hi": "यह योजना उद्योग को बढ़ावा देती है।",
-  "video": "../vids/makeinindia.mp4",
+  "video": "..\\vids\\makeinindia_balanced.mp4",
   "apply_link": "https://makeinindia.com"
 },
 
@@ -470,7 +470,7 @@
   "summary_hi": "आत्मनिर्भरता बढ़ती है।\nस्थानीय उद्योग बढ़ते हैं।\nअर्थव्यवस्था मजबूत होती है।\nस्टार्टअप बढ़ते हैं।\nआयात कम होता है।\nरोजगार बढ़ता है।",
   "description_en": "Encourages self-reliance.",
   "description_hi": "यह योजना आत्मनिर्भरता को बढ़ावा देती है।",
-  "video": "../vids/aatmnirbhar.mp4",
+  "video": "..\\vids\\aatmnirbhar_balanced.mp4",
   "apply_link": "https://aatmanirbharbharat.mygov.in"
 },
 
@@ -487,7 +487,7 @@
   "summary_hi": "सस्ती हवाई यात्रा मिलती है।\nशहर जुड़ते हैं।\nपर्यटन बढ़ता है।\nसुविधा बढ़ती है।",
   "description_en": "Provides affordable air travel.",
   "description_hi": "यह योजना सस्ती हवाई यात्रा देती है।",
-  "video": "../vids/udaan.mp4",
+  "video": "..\\vids\\udan_balanced.mp4",
   "apply_link": "https://udaan.gov.in"
 },
 
@@ -504,7 +504,7 @@
   "summary_hi": "इंफ्रास्ट्रक्चर सुधरता है।\nलॉजिस्टिक्स बेहतर होता है।\nकनेक्टिविटी बढ़ती है।",
   "description_en": "Improves infrastructure development.",
   "description_hi": "यह योजना इंफ्रास्ट्रक्चर सुधारती है।",
-  "video": "../vids/gatishakti.mp4",
+  "video": "..\\vids\\gatishakti_balanced.mp4",
   "apply_link": "https://pmgati.gov.in"
 },
 {
@@ -520,7 +520,7 @@
   "summary_hi": "स्ट्रीट वेंडर को सहायता मिलती है।\nलोन मिलता है।\nआसान भुगतान होता है।\nआय बढ़ती है।\nव्यवसाय को बढ़ावा मिलता है।\nआर्थिक सहायता मिलती है।\nस्वरोजगार बढ़ता है।",
   "description_en": "Provides loans to street vendors.",
   "description_hi": "यह योजना छोटे व्यापारियों को लोन देती है।",
-  "video": "../vids/svanidhi.mp4",
+  "video": "..\\vids\\svanidhi_balanced.mp4",
   "apply_link": "https://pmsvanidhi.mohua.gov.in"
 },
 
@@ -537,7 +537,7 @@
   "summary_hi": "डिजिटल हेल्थ रिकॉर्ड मिलता है।\nस्वास्थ्य सेवाएं सुधरती हैं।\nआसान पहुंच मिलती है।\nअस्पतालों को मदद मिलती है।\nआधुनिक प्रणाली बनती है।\nइलाज बेहतर होता है।\nप्रणाली कुशल होती है।",
   "description_en": "Provides digital healthcare services.",
   "description_hi": "यह योजना डिजिटल स्वास्थ्य सेवाएं देती है।",
-  "video": "../vids/healthmission.mp4",
+  "video": "..\\vids\\ndhm_balanced.mp4",
   "apply_link": "https://ndhm.gov.in"
 },
 
@@ -554,7 +554,7 @@
   "summary_hi": "पोषण सुधारता है।\nबच्चों को लाभ मिलता है।\nकुपोषण कम होता है।\nस्वास्थ्य जागरूकता बढ़ती है।\nविकास बेहतर होता है।\nस्वस्थ जीवन मिलता है।\nदेश मजबूत बनता है।",
   "description_en": "Improves child nutrition.",
   "description_hi": "यह योजना पोषण सुधारती है।",
-  "video": "../vids/poshanabhiyaan.mp4",
+  "video": "..\\vids\\poshan_balanced.mp4",
   "apply_link": "https://poshanabhiyaan.gov.in"
 },
 
@@ -571,7 +571,7 @@
   "summary_hi": "टीकाकरण कार्यक्रम है।\nबच्चों की सुरक्षा करता है।\nस्वास्थ्य बेहतर होता है।\nबीमारियां कम होती हैं।\nमुफ्त टीके मिलते हैं।\nदेशभर में लागू है।\nसुरक्षित भविष्य मिलता है।",
   "description_en": "Provides vaccines.",
   "description_hi": "यह योजना टीकाकरण देती है।",
-  "video": "../vids/indradhanush.mp4",
+  "video": "..\\vids\\indradhanush_balanced.mp4",
   "apply_link": "https://nhm.gov.in"
 },
 
@@ -588,7 +588,7 @@
   "summary_hi": "गर्भवती महिलाओं को सहायता मिलती है।\nआर्थिक मदद मिलती है।\nस्वास्थ्य बेहतर होता है।\nदेखभाल बढ़ती है।\nजोखिम कम होता है।\nसुरक्षित मातृत्व होता है।\nपरिणाम बेहतर होते हैं।",
   "description_en": "Supports pregnant women.",
   "description_hi": "यह योजना गर्भवती महिलाओं को सहायता देती है।",
-  "video": "../vids/matruvandana.mp4",
+  "video": "..\\vids\\matruvandana_balanced.mp4",
   "apply_link": "https://wcd.nic.in"
 },
 
@@ -605,7 +605,7 @@
   "summary_hi": "रोजगार मिलता है।\nयुवाओं को सहायता मिलती है।\nव्यवसाय बढ़ता है।\nआर्थिक मदद मिलती है।\nकौशल बढ़ता है।\nनौकरी के अवसर मिलते हैं।\nविकास होता है।",
   "description_en": "Provides job support.",
   "description_hi": "यह योजना रोजगार देती है।",
-  "video": "../vids/rozgar.mp4",
+  "video": "..\\vids\\rozgar_balanced.mp4",
   "apply_link": "https://msme.gov.in"
 },
 
@@ -622,7 +622,7 @@
   "summary_hi": "कौशल प्रशिक्षण मिलता है।\nग्रामीण युवाओं को सहायता मिलती है।\nरोजगार बढ़ता है।\nमुफ्त कोर्स होते हैं।\nउद्योग कौशल मिलते हैं।\nभविष्य बेहतर होता है।\nविकास होता है।",
   "description_en": "Provides skill training.",
   "description_hi": "यह योजना प्रशिक्षण देती है।",
-  "video": "../vids/ddugk.mp4",
+  "video": "..\\vids\\deendayal_balanced.mp4",
   "apply_link": "https://ddugky.gov.in"
 },
 
@@ -639,7 +639,7 @@
   "summary_hi": "ग्रामीण आजीविका बढ़ती है।\nस्व-सहायता समूह बनते हैं।\nवित्तीय समावेशन होता है।\nमहिला सशक्तिकरण होता है।\nआय बढ़ती है।\nग्रामीण विकास होता है।\nजीवन बेहतर होता है।",
   "description_en": "Supports rural livelihood.",
   "description_hi": "यह योजना आजीविका बढ़ाती है।",
-  "video": "../vids/nrlm.mp4",
+  "video": "..\\vids\\nrlm_balanced.mp4",
   "apply_link": "https://aajeevika.gov.in"
 },
 
@@ -656,7 +656,7 @@
   "summary_hi": "पेंशन योजना है।\nमजदूरों को सहायता मिलती है।\nआर्थिक सुरक्षा मिलती है।\nमासिक पेंशन मिलती है।\nसस्ती योजना है।\nआसान पंजीकरण है।\nभविष्य सुरक्षित होता है।",
   "description_en": "Provides pension.",
   "description_hi": "यह योजना पेंशन देती है।",
-  "video": "../vids/shramyogi.mp4",
+  "video": "..\\vids\\shramyogi_balanced.mp4",
   "apply_link": "https://maandhan.in"
 },
 
@@ -673,7 +673,7 @@
   "summary_hi": "मुफ्त राशन मिलता है।\nगरीबों को सहायता मिलती है।\nखाद्य सुरक्षा मिलती है।\nसरकार मदद करती है।\nभूख कम होती है।\nपोषण बेहतर होता है।\nराहत मिलती है।",
   "description_en": "Provides food support.",
   "description_hi": "यह योजना राशन देती है।",
-  "video": "../vids/garibkalyan.mp4",
+  "video": "..\\vids\\garibkalyan_balanced.mp4",
   "apply_link": "https://dfpd.gov.in"
 },
 
@@ -690,7 +690,7 @@
   "summary_hi": "मिड डे मील मिलता है।\nछात्रों को सहायता मिलती है।\nपोषण सुधरता है।\nस्कूल उपस्थिति बढ़ती है।\nस्वास्थ्य बेहतर होता है।\nसीखना बेहतर होता है।\nबाल कल्याण होता है।",
   "description_en": "Provides meals.",
   "description_hi": "यह योजना भोजन देती है।",
-  "video": "../vids/poshanabhiyaan.mp4",
+  "video": "..\\vids\\poshanabhiyan_balanced.mp4",
   "apply_link": "https://pmposhan.gov.in"
 },
 
@@ -707,7 +707,7 @@
   "summary_hi": "स्वास्थ्य बीमा मिलता है।\nगरीबों को सहायता मिलती है।\nकैशलेस इलाज मिलता है।\nसस्ती योजना है।\nअस्पताल सुविधा मिलती है।\nचिकित्सा सुरक्षा मिलती है।\nबेहतर देखभाल मिलती है।",
   "description_en": "Provides health coverage.",
   "description_hi": "यह योजना बीमा देती है।",
-  "video": "../vids/swasthyabima.mp4",
+  "video": "..\\vids\\swasthyabima_balanced.mp4",
   "apply_link": "https://rsby.gov.in"
 },
 
@@ -724,7 +724,7 @@
   "summary_hi": "सड़क बनती है।\nकनेक्टिविटी बढ़ती है।\nग्रामीण विकास होता है।\nपरिवहन बेहतर होता है।\nआर्थिक विकास होता है।\nसुविधा बढ़ती है।\nइंफ्रास्ट्रक्चर सुधरता है।",
   "description_en": "Improves roads.",
   "description_hi": "यह योजना सड़क बनाती है।",
-  "video": "../vids/gramsadak.mp4",
+  "video": "..\\vids\\gramsadak_balanced.mp4",
   "apply_link": "https://pmgsy.nic.in"
 },
 
@@ -741,7 +741,7 @@
   "summary_hi": "स्वच्छ पानी मिलता है।\nस्वास्थ्य बेहतर होता है।\nग्रामीण क्षेत्रों पर ध्यान है।\nसुरक्षित पेयजल मिलता है।\nबीमारियां कम होती हैं।\nजीवन बेहतर होता है।\nस्थायित्व बढ़ता है।",
   "description_en": "Provides water.",
   "description_hi": "यह योजना पानी देती है।",
-  "video": "../vids/jaljeevan.mp4",
+  "video": "..\\vids\\jaljeevan_balanced.mp4",
   "apply_link": "https://jaljeevanmission.gov.in"
 },
 
@@ -758,7 +758,7 @@
   "summary_hi": "शिक्षा सुधार होती है।\nआधुनिक शिक्षा मिलती है।\nलचीला पाठ्यक्रम होता है।\nकौशल पर ध्यान होता है।\nप्रणाली बेहतर होती है।\nनवाचार बढ़ता है।\nगुणवत्तापूर्ण शिक्षा मिलती है।",
   "description_en": "Improves education.",
   "description_hi": "यह नीति शिक्षा सुधारती है।",
-  "video": "../vids/nep.mp4",
+  "video": "..\\vids\\nep_balanced.mp4",
   "apply_link": "https://education.gov.in"
 },
 
@@ -775,7 +775,7 @@
   "summary_hi": "कारीगरों को सहायता मिलती है।\nकौशल विकास होता है।\nआर्थिक मदद मिलती है।\nउपकरण मिलते हैं।\nप्रशिक्षण मिलता है।\nरोजगार बढ़ता है।\nविकास होता है।",
   "description_en": "Supports artisans.",
   "description_hi": "यह योजना कारीगरों को मदद देती है।",
-  "video": "../vids/vishvkarma.mp4",
+  "video": "..\\vids\\vishwakarma_balanced.mp4",
   "apply_link": "https://pmvishwakarma.gov.in"
 },
 
@@ -792,7 +792,7 @@
   "summary_hi": "ऑनलाइन शिक्षा मिलती है।\nडिजिटल लर्निंग होती है।\nसामग्री आसानी से मिलती है।\nलचीली पढ़ाई होती है।\nदूरस्थ शिक्षा मिलती है।\nतकनीक का उपयोग बढ़ता है।\nशिक्षा बढ़ती है।",
   "description_en": "Supports digital education.",
   "description_hi": "यह योजना ऑनलाइन शिक्षा देती है।",
-  "video": "../vids/evidya.mp4",
+  "video": "..\\vids\\evidya_balanced.mp4",
   "apply_link": "https://evidya.education.gov.in"
 },
 
@@ -809,7 +809,7 @@
   "summary_hi": "बच्चों को सहायता मिलती है।\nआर्थिक मदद मिलती है।\nशिक्षा सहायता मिलती है।\nस्वास्थ्य सहायता मिलती है।\nभविष्य सुरक्षित होता है।\nदेखभाल मिलती है।\nजीवन बेहतर होता है।",
   "description_en": "Supports children.",
   "description_hi": "यह योजना बच्चों को मदद देती है।",
-  "video": "../vids/pmcares.mp4",
+  "video": "..\\vids\\pmcares_balanced.mp4 ",
   "apply_link": "https://pmcares.gov.in"
 },
 
@@ -826,7 +826,7 @@
   "summary_hi": "सोलर पंप मिलते हैं।\nकिसानों को सहायता मिलती है।\nनवीकरणीय ऊर्जा मिलती है।\nखर्च कम होता है।\nसतत खेती होती है।\nआय बढ़ती है।\nपर्यावरण सुरक्षित रहता है।",
   "description_en": "Supports solar farming.",
   "description_hi": "यह योजना सोलर खेती को बढ़ावा देती है।",
-  "video": "../vids/kusum.mp4",
+  "video": "..\\vids\\kusum_balanced.mp4",
   "apply_link": "https://mnre.gov.in"
 },
 
@@ -843,7 +843,7 @@
   "summary_hi": "जमीन का रिकॉर्ड मिलता है।\nडिजिटल रिकॉर्ड मिलता है।\nग्रामीण क्षेत्रों पर ध्यान है।\nपारदर्शिता बढ़ती है।\nजमीन सुरक्षित होती है।\nसशक्तिकरण होता है।\nविकास होता है।",
   "description_en": "Provides property rights.",
   "description_hi": "यह योजना संपत्ति अधिकार देती है।",
-  "video": "../vids/svamitva.mp4",
+  "video": "..\\vids\\svamitva_balanced.mp4",
   "apply_link": "https://svamitva.nic.in"
 }
 ]
