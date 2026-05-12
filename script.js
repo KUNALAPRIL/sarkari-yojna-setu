@@ -424,17 +424,78 @@ function toggleLanguage() {
   renderSavedSchemes();
 }
 
+// ================= TOGGLE TOP SCHEMES =================
+
+function toggleTopSchemes() {
+
+  const section =
+    document.getElementById("topSchemesSection");
+
+  const btn =
+    document.getElementById("topToggleBtn");
+
+
+  // CHECK CURRENT STATE
+  const isHidden =
+    section.style.display === "none";
+
+
+  // ================= SHOW =================
+  if (isHidden) {
+
+    section.style.display = "block";
+
+    btn.innerText =
+      currentLang === "en"
+      ? "🔼 Hide Top Schemes"
+      : "🔼 प्रमुख योजनाएँ छुपाएँ";
+
+
+    // SMOOTH SCROLL
+    setTimeout(() => {
+
+      section.scrollIntoView({
+        behavior: "smooth",
+        block: "start"
+      });
+
+    }, 100);
+
+  }
+
+  // ================= HIDE =================
+  else {
+
+    section.style.display = "none";
+
+    btn.innerText =
+      currentLang === "en"
+      ? "🔥 Show Top Schemes"
+      : "🔥 प्रमुख योजनाएँ दिखाएँ";
+
+  }
+
+}
+
+
+
 // ================= MODAL =================
+
 function showDetails(s) {
 
-  const modal = document.getElementById("modal");
+  const modal =
+    document.getElementById("modal");
 
+
+  // TITLE
   document.getElementById("modalTitle").innerText =
 
     currentLang === "en"
       ? s.name_en
       : s.name_hi;
 
+
+  // DESCRIPTION
   document.getElementById("modalDesc").innerHTML = `
 
     <b>
@@ -467,6 +528,7 @@ function showDetails(s) {
 
   `;
 
+
   // IMAGE
   const img =
     document.getElementById("modalImage");
@@ -476,13 +538,15 @@ function showDetails(s) {
 
 
   // ================= VIDEO =================
+
   const video =
     document.getElementById("modalVideo");
 
   const videoPath =
     fixVideoPath(s.video);
 
-  // RESET
+
+  // RESET VIDEO
   video.pause();
 
   video.currentTime = 0;
@@ -493,19 +557,24 @@ function showDetails(s) {
 
   video.style.display = "block";
 
+
   // SET VIDEO
   video.src = videoPath;
 
   video.load();
 
-  // AUDIO ENABLED
+
+  // ENABLE AUDIO
   video.muted = false;
 
+
+  // AUTOPLAY
   video.play().catch(() => {
 
     console.log("Autoplay blocked");
 
   });
+
 
   // ERROR HANDLE
   video.onerror = () => {
@@ -516,6 +585,7 @@ function showDetails(s) {
 
   };
 
+
   // APPLY BUTTON
   document.getElementById("modalApplyBtn").href =
     s.apply_link || "#";
@@ -525,10 +595,11 @@ function showDetails(s) {
       ? "🚀 Apply Now"
       : "🚀 अभी आवेदन करें";
 
+
+  // SHOW MODAL
   modal.classList.remove("hidden");
+
 }
-
-
 // ================= CLOSE =================
 function closeModal() {
 
