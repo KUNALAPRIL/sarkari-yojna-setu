@@ -1,72 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
   <meta charset="UTF-8">
+
   <title>Sarkari Yojna Setu</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- SEO -->
-  <meta name="description" content="Find government schemes by age, income, and sector in India">
+  <meta
+    name="description"
+    content="Find government schemes by age, income, and sector in India"
+  >
 
-  <!-- Favicon -->
-  <link rel="icon" href="assets/icon.png">
+  <!-- FAVICON -->
+  <link rel="icon" href="assets/logo.png">
 
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <!-- GOOGLE FONT -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
 
   <!-- CSS -->
   <link rel="stylesheet" href="style.css">
+
 </head>
+
 
 <body>
 
-  <!-- ================= HEADER ================= -->
+
+  <!-- =========================================
+       HEADER
+  ========================================== -->
   <header class="header">
+
+    <!-- LOGO AREA -->
     <div class="logo-area">
-      <h1>🇮🇳 Sarkari Yojna Setu</h1>
-      <p>Your Bridge to Government Schemes</p>
+
+      <div class="logo-box">
+
+        <!-- LOGO -->
+        <img
+          src="data\assets\logo.png"
+          alt="Sarkari Yojna Setu Logo"
+          class="site-logo"
+        >
+
+        <!-- TEXT -->
+        <div class="logo-text">
+
+          <h1>
+            🇮🇳 Sarkari Yojna Setu
+          </h1>
+
+          <p>
+            Your Bridge to Government Schemes
+          </p>
+
+        </div>
+
+      </div>
+
     </div>
 
+
+    <!-- ACTION BUTTONS -->
     <div class="header-actions">
-      <button id="langBtn">🌐 हिंदी / English</button>
-      <button onclick="resetFilters()">🔄 Reset</button>
+
+      <!-- LANGUAGE -->
+      <button id="langBtn">
+        🌐 हिंदी / English
+      </button>
+
+      <!-- RESET -->
+      <button onclick="resetFilters()">
+        🔄 Reset
+      </button>
+
     </div>
+
   </header>
 
 
-  <!-- ================= HERO ================= -->
+
+  <!-- =========================================
+       HERO SECTION
+  ========================================== -->
   <section class="hero">
-    <h2 id="heroTitle">Find the Right Government Scheme for You</h2>
+
+    <h2 id="heroTitle">
+      Find the Right Government Scheme for You
+    </h2>
 
     <p id="heroSubtitle">
       Filter by age, income, sector and explore benefits easily
     </p>
+
   </section>
 
 
-  <!-- ================= SEARCH ================= -->
+
+  <!-- =========================================
+       SEARCH SECTION
+  ========================================== -->
   <section class="search-box">
+
     <div class="search-wrapper">
 
-      <input 
-        type="text" 
-        id="searchInput" 
+      <!-- SEARCH INPUT -->
+      <input
+        type="text"
+        id="searchInput"
         placeholder="🔍 Search schemes..."
         data-en="🔍 Search schemes..."
         data-hi="🔍 योजनाएँ खोजें..."
         autocomplete="off"
       >
 
-      <button id="searchBtn" onclick="searchSchemes()">
+      <!-- SEARCH BUTTON -->
+      <button
+        id="searchBtn"
+        onclick="searchSchemes()"
+      >
         Search
       </button>
 
     </div>
+
   </section>
 
 
-  <!-- ================= FILTERS ================= -->
+
+  <!-- =========================================
+       FILTERS
+  ========================================== -->
   <section class="filters">
+
 
     <!-- SECTOR -->
     <select id="sectorFilter">
@@ -76,16 +149,25 @@
       </option>
 
       <option value="Health">Health</option>
+
       <option value="Education">Education</option>
+
       <option value="Agriculture">Agriculture</option>
+
       <option value="Housing">Housing</option>
+
       <option value="Business">Business</option>
+
       <option value="Skill">Skill</option>
+
       <option value="Finance">Finance</option>
+
       <option value="Women">Women</option>
+
       <option value="Social">Social</option>
 
     </select>
+
 
 
     <!-- GENDER -->
@@ -96,10 +178,13 @@
       </option>
 
       <option value="Male">Male</option>
+
       <option value="Female">Female</option>
+
       <option value="All">All</option>
 
     </select>
+
 
 
     <!-- AGE -->
@@ -110,11 +195,15 @@
       </option>
 
       <option value="Child">Child</option>
+
       <option value="Youth">Youth</option>
+
       <option value="Adult">Adult</option>
+
       <option value="Senior">Senior</option>
 
     </select>
+
 
 
     <!-- INCOME -->
@@ -125,7 +214,9 @@
       </option>
 
       <option value="Low">Low</option>
+
       <option value="Middle">Middle</option>
+
       <option value="High">High</option>
 
     </select>
@@ -133,8 +224,22 @@
   </section>
 
 
+
   <!-- ================= TOP SCHEMES ================= -->
-  <section class="section">
+
+<section class="section">
+
+  <!-- TOGGLE BUTTON -->
+  <button
+    id="topToggleBtn"
+    class="top-toggle-btn"
+    onclick="toggleTopSchemes()"
+  >
+    🔥 Show Top Schemes
+  </button>
+
+  <!-- HIDDEN SECTION -->
+  <div id="topSchemesSection" class="hidden-top">
 
     <h2 class="section-title" id="topTitle">
       🔥 Top Schemes
@@ -142,92 +247,148 @@
 
     <div id="topContainer" class="cards"></div>
 
-  </section>
+  </div>
+
+</section>
 
 
-  <!-- ================= SAVED SCHEMES ================= -->
+
+  <!-- =========================================
+       SAVED SCHEMES
+  ========================================== -->
   <section class="section">
 
-    <h2 class="section-title" id="savedTitle">
+    <h2
+      class="section-title"
+      id="savedTitle"
+    >
       ⭐ Saved Schemes
     </h2>
 
-    <div id="savedContainer" class="cards"></div>
+    <div
+      id="savedContainer"
+      class="cards"
+    ></div>
 
   </section>
 
 
-  <!-- ================= ALL SCHEMES ================= -->
+
+  <!-- =========================================
+       ALL SCHEMES
+  ========================================== -->
   <main class="section">
 
-    <h2 class="section-title" id="allTitle">
+    <h2
+      class="section-title"
+      id="allTitle"
+    >
       📋 All Schemes
     </h2>
 
-    <div id="container" class="cards"></div>
+    <div
+      id="container"
+      class="cards"
+    ></div>
 
   </main>
 
 
-  <!-- ================= MODAL ================= -->
-  <div id="modal" class="modal hidden">
+
+  <!-- =========================================
+       MODAL
+  ========================================== -->
+  <div
+    id="modal"
+    class="modal hidden"
+  >
 
     <!-- BACKDROP -->
-    <div class="modal-backdrop" onclick="closeModal()"></div>
+    <div
+      class="modal-backdrop"
+      onclick="closeModal()"
+    ></div>
 
-    <!-- MODAL BOX -->
+
+    <!-- CONTENT -->
     <div class="modal-content">
 
       <!-- CLOSE -->
-      <button class="close-btn" onclick="closeModal()">✖</button>
+      <button
+        class="close-btn"
+        onclick="closeModal()"
+      >
+        ✖
+      </button>
+
 
       <!-- TITLE -->
       <h2 id="modalTitle"></h2>
+
 
       <!-- MEDIA -->
       <div class="modal-media">
 
         <!-- IMAGE -->
-        <img 
-          id="modalImage" 
+        <img
+          id="modalImage"
           alt="Scheme Image"
           loading="lazy"
-          onerror="this.src='assets/images/default.jpg'"
+          onerror="this.src='assets/logo.png'"
         >
 
+
         <!-- VIDEO -->
-        <video 
+        <video
           id="modalVideo"
           controls
           playsinline
           preload="auto"
         >
-          <source id="modalVideoSource" src="" type="video/mp4">
+
+          <source
+            id="modalVideoSource"
+            src=""
+            type="video/mp4"
+          >
+
           Your browser does not support video.
+
         </video>
 
       </div>
 
-      <!-- DESCRIPTION -->
-      <div id="modalDesc" class="modal-text"></div>
 
-      <!-- APPLY BUTTON -->
-      <a 
-        id="modalApplyBtn" 
-        target="_blank" 
+      <!-- DESCRIPTION -->
+      <div
+        id="modalDesc"
+        class="modal-text"
+      ></div>
+
+
+      <!-- APPLY -->
+      <a
+        id="modalApplyBtn"
+        target="_blank"
         class="apply-btn"
       >
         🚀 Apply Now
       </a>
 
     </div>
+
   </div>
 
 
-  <!-- ================= FOOTER ================= -->
+
+  <!-- =========================================
+       FOOTER
+  ========================================== -->
   <footer>
 
-    <p>© 2026 Sarkari Yojna Setu</p>
+    <p>
+      © 2026 Sarkari Yojna Setu
+    </p>
 
     <p>
       Made for public awareness of government schemes 🇮🇳
@@ -236,8 +397,15 @@
   </footer>
 
 
-  <!-- ================= SCRIPT ================= -->
-  <script src="script.js" defer></script>
+
+  <!-- =========================================
+       SCRIPT
+  ========================================== -->
+  <script
+    src="script.js"
+    defer
+  ></script>
+
 
 </body>
 </html>
